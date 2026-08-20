@@ -32,7 +32,7 @@ Kirigami.ApplicationWindow {
             id: rootEditorView
 
             property bool resizing: false;
-            property string imagePath: '/home/carl/kde6/usr/share/wallpapers/Next/contents/images/5120x2880.png'
+            property string imagePath: '/home/carl/kde6/usr/share/wallpapers/Silver/contents/images/2560x1600.png'
 
             signal imageEdited();
 
